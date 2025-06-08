@@ -4,9 +4,6 @@
 </p>
 
 <!-- Violet Wavy Banner with Twinkling Stars -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header&text=Hi%20There%20--%20I'm%20Tshiamo&fontSize=35&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
-</p>
 
 🎓 **Student at Belgium Campus (2024–2026)**  
 📍 Pretoria, Gauteng, South Africa  
