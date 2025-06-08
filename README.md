@@ -1,7 +1,11 @@
-<h1 align="center" style="font-family: 'Comic Sans MS', cursive; font-size: 2.5rem;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" style="margin-right: 10px;" />
-  Hello There — I'm <span style="color: violet;">Tshiamo</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=👋+Hello+There+--+I'm+Tshiamo!" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header&text=Welcome%20to%20My%20World&fontSize=35&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+</p>
+
 
 
 🎓 **Student at Belgium Campus (2024–2026)**  
