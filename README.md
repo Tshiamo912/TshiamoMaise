@@ -1,7 +1,8 @@
 
 <!-- Violet Wavy Banner with Larger Background and Same Text Size -->
-<p align="center" style="margin:40px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=fading&color=8A2BE2&height=300&section=header&text=👨‍💻%20Hi%20There%20--%20I'm%20Tshiamo%20%F0%9F%92%BB&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=ffffff&fontWeight=700" />
+
+<p align="center" style="margin: 40px 0;">
+  <img src="https://capsule-render.vercel.app/api?type=fading&color=8A2BE2&height=300&section=header&text=👨‍💻%20Hi%20There%20--%20I'm%20Tshiamo&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=ffffff&fontWeight=700" />
 </p>
 
 <!-- Typing GIF Animation -->
