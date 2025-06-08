@@ -1,8 +1,7 @@
-<!-- Violet Wavy Banner with Violet Gradient and Coding Effects -->
+<!-- Violet Wavy Banner with Violet Gradient and Violet Text -->
 <p align="center" style="margin: 40px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,9400D3&height=200&section=header&text=👨‍💻%20Hi%20There%20--%20I'm%20Tshiamo%20%F0%9F%92%BB&fontSize=45&fontAlignY=50&animation=twinkling&fontColor=ffffff&fontWeight=700" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,9400D3&height=200&section=header&text=👨‍💻%20Hi%20There%20--%20I'm%20Tshiamo%20%F0%9F%92%BB&fontSize=45&fontAlignY=50&animation=twinkling&fontColor=DA70D6&fontWeight=700" />
 </p>
-
 
 <!-- Typing GIF Animation -->
 <p align="center">
