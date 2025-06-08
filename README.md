@@ -1,6 +1,6 @@
-<!-- Violet Wavy Banner with Extra Sparkles, Blinking Cursor, and Coding Symbols -->
+<!-- Violet Wavy Banner with Violet Gradient and Coding Effects -->
 <p align="center" style="margin: 40px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,9400D3&height=220&section=header&text=✨%20%7B%20👨‍💻%20Hi%20There%20--%20I'm%20Tshiamo%20%F0%9F%92%BB%20%7D%20✨_%20&fontSize=48&fontAlignY=55&animation=twinkling&fontColor=ffffff&fontWeight=700" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,9400D3&height=200&section=header&text=👨‍💻%20Hi%20There%20--%20I'm%20Tshiamo%20%F0%9F%92%BB&fontSize=45&fontAlignY=50&animation=twinkling&fontColor=ffffff&fontWeight=700" />
 </p>
 
 
