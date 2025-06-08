@@ -1,8 +1,14 @@
-
 <!-- Violet Wavy Banner with Twinkling Stars -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header&text=Hi%20There%20--%20I'm%20Tshiamo&fontSize=35&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 </p>
+
+<!-- Typing GIF Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tshiamo912/Tshiamo912/main/ngoding-mulu.gif" width="400" alt="Typing GIF" />
+</p>
+
+---
 
 🎓 **Student at Belgium Campus (2024–2026)**  
 📍 Pretoria, Gauteng, South Africa  
@@ -25,30 +31,35 @@ I'm a motivated and detail-oriented student currently pursuing my studies at Bel
 
 ---
 
-
-
-### 📊 GitHub Profile Stats
-
-<p> 
-<img src="https://github-readme-stats.vercel.app/api?username=Tshiamo912&show_icons=true&theme=radical&custom_title=Tshiamo912's%20GitHub%20Stats" alt="GitHub Stats" />
-</p>
-
-### 📌 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshiamo912&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Tshiamo912/count.svg"/>
-</p>
----
-
 ## 🌱 Currently Learning
 
 - Python and data science tools  
 - Git & GitHub workflows  
 - Software engineering fundamentals  
+
+---
+
+## 📊 GitHub Profile Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tshiamo912&show_icons=true&theme=radical&custom_title=Tshiamo912's%20GitHub%20Stats" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📌 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshiamo912&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 👥 Profile Visitors
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Tshiamo912/count.svg" />
+</p>
 
 ---
 
@@ -61,5 +72,6 @@ If you're passionate about data, tech, or collaborative learning—let’s conne
 
 ---
 
-*Thanks for visiting! Have a great day! 🚀*
+*Thanks for visiting! Have a great day 😊*
+
 
