@@ -1,21 +1,61 @@
 # 👋 Hi there, I'm Tshiamo Maise
 
-🎓 I'm currently a student at **Belgium Campus** (2024–2026), located in Pretoria, Gauteng, South Africa.  
-📍 Passionate about **statistical data analysis**, tech, and continuous learning.  
-🗣️ Fluent in English.
-
-## 🔧 Skills
-- 📊 Statistical Data Analysis
-- 💬 English Communication
-- 📚 Academic Research & Problem Solving (emerging)
-
-## 📫 Contact Me
-- 📧 Email: [tshiamomaise053@gmail.com](mailto:tshiamomaise053@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/tshiamo-maise-517260332](https://www.linkedin.com/in/tshiamo-maise-517260332)
-
-## 📌 About Me
-I’m a dedicated and aspiring professional with a focus on data and statistical methods. As a student at Belgium Campus, I'm building strong foundations in technology and analysis, while exploring real-world applications of data in decision-making and problem-solving. I’m always open to collaborating on exciting projects and learning from the open-source community.
+🎓 **Student at Belgium Campus (2024–2026)**  
+📍 Pretoria, Gauteng, South Africa  
+📧 [tshiamomaise053@gmail.com](mailto:tshiamomaise053@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/tshiamo-maise-517260332)
 
 ---
 
-⭐️ *Thanks for visiting my profile! Let's connect and build something impactful together.*
+## 💡 About Me
+
+I'm a motivated and detail-oriented student currently pursuing my studies at Belgium Campus. I have a growing interest in data analysis and technology, and I enjoy solving problems using statistical techniques and software tools.
+
+---
+
+## 🧠 Skills
+
+- 📊 Statistical Data Analysis  
+- 🗣️ Proficient in English  
+- 💻 Currently exploring programming and software development  
+
+---
+
+## 🚀 GitHub Stats
+
+### 📊 GitHub Profile Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilytheoo&show_icons=true&theme=radical&custom_title=ilytheoo's%20GitHub%20Stats" alt="GitHub Stats" />
+</p>
+
+### 📌 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilytheoo&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ilytheoo/count.svg"/>
+</p>
+---
+
+## 🌱 Currently Learning
+
+- Python and data science tools  
+- Git & GitHub workflows  
+- Software engineering fundamentals  
+
+---
+
+## 🤝 Let's Connect
+
+If you're passionate about data, tech, or collaborative learning—let’s connect!
+
+📬 [Email Me](mailto:tshiamomaise053@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tshiamo-maise-517260332)
+
+---
+
+*Thanks for visiting! Have a great day! 🚀*
+
