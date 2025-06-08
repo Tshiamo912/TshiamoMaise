@@ -64,6 +64,9 @@ I'm a motivated and detail-oriented student currently pursuing my studies at Bel
 ---
 
 ## 🤝 Let's Connect
+<p align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YUc6bTfM--/c_limit,f_auto,fl_progressive,q_80,w_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6w9dmqqhvlg7r93jlnup.gif" width="600" alt="Cool GitHub GIF" />
+</p>
 
 If you're passionate about data, tech, or collaborative learning—let’s connect!
 
