@@ -11,35 +11,51 @@
 ---
 
 🎓 **Student at Belgium Campus (2024–2026)**  
-📍 Pretoria, Gauteng, South Africa  
-📧 [tshiamomaise053@gmail.com](mailto:tshiamomaise053@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/tshiamo-maise-517260332)
+📍 *Pretoria, Gauteng, South Africa*  
+📧 [Email Me](mailto:tshiamomaise053@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tshiamo-maise-517260332)
 
 ---
 
 ## 💡 About Me
 
-I'm a motivated and detail-oriented student currently pursuing my studies at Belgium Campus. I have a growing interest in data analysis and technology, and I enjoy solving problems using statistical techniques and software tools.
+Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply interested in **software engineering**, **technology**, and **problem-solving**. I enjoy building useful applications and continuously learning through projects and collaboration.
 
 ---
 
-## 🧠 Skills
+## 🧠 Skills & Interests
 
-- 📊 Statistical Data Analysis  
-- 🗣️ Proficient in English  
-- 💻 Currently exploring programming and software development  
+### 👨‍💻 Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 💡 Other Skills
+
+- 📊 **Statistical Data Analysis**
+- 🔧 **Tech Problem Solving**
+- 🗣️ **Proficient in English**
+- 🤝 **Team Collaboration & Communication**
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 What I'm Currently Learning
 
-- Python and data science tools  
-- Git & GitHub workflows  
-- Software engineering fundamentals  
+- 🧠 **Software Engineering Principles**
+- 🌐 **Git & GitHub Workflows**
+- 🛠️ **Agile Development & Project Management**
+- 📂 **Version Control & Team Collaboration**
 
 ---
 
-## 📊 GitHub Profile Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tshiamo912&show_icons=true&theme=radical&custom_title=Tshiamo912's%20GitHub%20Stats" alt="GitHub Stats" />
@@ -47,7 +63,7 @@ I'm a motivated and detail-oriented student currently pursuing my studies at Bel
 
 ---
 
-## 📌 Most Used Languages
+## 🧰 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshiamo912&layout=compact&theme=radical" alt="Top Languages" />
@@ -55,7 +71,15 @@ I'm a motivated and detail-oriented student currently pursuing my studies at Bel
 
 ---
 
-## 👥 Profile Visitors
+## ✝️ Featured Quote
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Philippians%204%3A13-%22I%20can%20do%20all%20things%20through%20Christ%20who%20strengthens%20me.%22-purple?style=for-the-badge&logo=trustpilot&logoColor=white" />
+</p>
+
+---
+
+## 👀 Profile Visitors
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Tshiamo912/count.svg" />
@@ -64,15 +88,16 @@ I'm a motivated and detail-oriented student currently pursuing my studies at Bel
 ---
 
 ## 🤝 Let's Connect
+
 <p align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YUc6bTfM--/c_limit,f_auto,fl_progressive,q_80,w_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6w9dmqqhvlg7r93jlnup.gif" width="600" alt="Cool GitHub GIF" />
 </p>
 
-If you're passionate about data, tech, or collaborative learning—let’s connect!
+If you’re passionate about **software**, **technology**, or **learning together**, I’d love to connect and collaborate!
 
 📬 [Email Me](mailto:tshiamomaise053@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tshiamo-maise-517260332)
 
 ---
 
-*Thanks for visiting! Have a great day 😊*
+<p align="center"><b>Thanks for visiting! Wishing you a productive day 😊</b></p>
