@@ -23,11 +23,12 @@ Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply intereste
 
 ---
 
+
 ## 🧠 Skills & Interests
 
 ### 👨‍💻 Languages & Tools
 
-<p align="center">
+<div align="center" style="transform: scale(1.25); margin: 20px 0;">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -35,7 +36,7 @@ Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply intereste
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</div>
 
 ### 💡 Other Skills
 
@@ -71,11 +72,13 @@ Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply intereste
 
 ---
 
+
 ## ✝️ Featured Quote
 
-<p align="center">
+<div align="center" style="transform: scale(1.3); margin: 30px 0;">
   <img src="https://img.shields.io/badge/Philippians%204%3A13-%22I%20can%20do%20all%20things%20through%20Christ%20who%20strengthens%20me.%22-purple?style=for-the-badge&logo=trustpilot&logoColor=white" />
-</p>
+</div>
+
 
 ---
 
