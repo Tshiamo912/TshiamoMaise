@@ -1,8 +1,9 @@
 <!-- Violet Wavy Banner with Twinkling Stars -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tshiamo-%F0%9F%94%A5-8A2BE2?style=for-the-badge&logo=shields.io&logoColor=white" alt="Extraordinary Shields Badge" />
+  <img src="https://img.shields.io/badge/Tshiamo-🔥🔥🔥-8A2BE2?style=for-the-badge&logo=shields.io&logoColor=white" alt="Fire Badge" />
 </p>
+
 
 <!-- Typing GIF Animation -->
 <p align="center">
