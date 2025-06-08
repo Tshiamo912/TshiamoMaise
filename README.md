@@ -1,4 +1,13 @@
 <!-- Violet Wavy Banner with Twinkling Stars -->
+<p align="center" style="font-size: 48px; font-weight: 700; color: #8A2BE2; margin: 20px 0; font-family: monospace, monospace;">
+  { 👨‍💻 Hi There -- I'm Tshiamo 💻 } ✨<span style="animation: blink 1s step-start 0s infinite;">_</span>
+</p>
+
+<style>
+@keyframes blink {
+  50% { opacity: 0; }
+}
+</style>
 
 <!-- Upgraded Violet Wavy Banner with Coding Effects -->
 <p align="center" style="margin: 40px 0;">
