@@ -1,15 +1,8 @@
-
-
-
-<p align="center" style="font-size: 48px; font-weight: 700; color: #8A2BE2; margin: 20px 0; font-family: monospace, monospace;">
-  { 👨‍💻 Hi There -- I'm Tshiamo 💻 } ✨<span style="animation: blink 1s step-start 0s infinite;">_</span>
+<!-- Violet Wavy Banner with Extra Sparkles, Blinking Cursor, and Coding Symbols -->
+<p align="center" style="margin: 40px 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,9400D3&height=220&section=header&text=✨%20%7B%20👨‍💻%20Hi%20There%20--%20I'm%20Tshiamo%20%F0%9F%92%BB%20%7D%20✨_%20&fontSize=48&fontAlignY=55&animation=twinkling&fontColor=ffffff&fontWeight=700" />
 </p>
 
-<style>
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
 
 <!-- Typing GIF Animation -->
 <p align="center">
