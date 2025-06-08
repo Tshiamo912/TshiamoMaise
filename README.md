@@ -1,12 +1,12 @@
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=👋+Hello+There+--+I'm+Tshiamo!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=👋+Hi+There+--+I'm+Tshiamo!" />
 </p>
 
+<!-- Violet Wavy Banner with Twinkling Stars -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header&text=Welcome%20to%20My%20World&fontSize=35&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header&text=Hi%20There%20--%20I'm%20Tshiamo&fontSize=35&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
 </p>
-
-
 
 🎓 **Student at Belgium Campus (2024–2026)**  
 📍 Pretoria, Gauteng, South Africa  
