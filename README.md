@@ -4,12 +4,9 @@
 </p>
 
 <!-- Typing GIF Animation -->
-<!-- Typing GIF Animation -->
 <p align="center">
-  <img src="https://github.com/Tshiamo912/TshiamoMaise/blob/main/ngoding-mulu.gif?raw=true" width="700" alt="Typing GIF" />
+  <img src="https://github.com/Tshiamo912/TshiamoMaise/blob/main/ngoding-mulu.gif?raw=true" width="400" alt="Typing GIF" />
 </p>
-
-
 ---
 
 🎓 **Student at Belgium Campus (2024–2026)**  
