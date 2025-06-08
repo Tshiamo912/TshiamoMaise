@@ -34,14 +34,28 @@ Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply intereste
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-### 💡 Other Skills
+### 🛠️ Technical Skills
 
-- 📊 **Statistical Data Analysis**
-- 🔧 **Tech Problem Solving**
-- 🗣️ **Proficient in English**
-- 🤝 **Team Collaboration & Communication**
+- ✅ **Object-Oriented Programming (OOP)**
+- 🔄 **Version Control (Git & GitHub)**
+- 🛠️ **Frontend Web Development (HTML, CSS, JavaScript)**
+- 🧠 **Database Design & SQL (MySQL)**
+- ⚙️ **Software Development Life Cycle (SDLC)**
+- 🔍 **Debugging & Code Review**
+- 🖥️ **Visual Studio & VS Code**
+- 🐞 **Basic Testing & Error Handling**
 
----
+### 💡 Interests
+
+- 🤖 **Building Real-World Software Solutions**
+- 🔐 **Learning Software Architecture & Design Patterns**
+- 📊 **Exploring Data Analytics & Visualization**
+- ☁️ **Cloud Technologies & Deployment**
+- 📱 **Mobile & Web App Development**
+- 🤝 **Collaborative Team Projects**
+- 🧩 **Problem Solving & Critical Thinking**
+- 🧪 **Experimenting with New Technologies**
+
 
 ## 🌱 What I'm Currently Learning
 
