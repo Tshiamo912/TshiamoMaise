@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Tshiamo Maise
+<img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%91%8B%20Hi%20there%2C%20I'm%20Tshiamo%20Maise">
+
 
 🎓 **Student at Belgium Campus (2024–2026)**  
 📍 Pretoria, Gauteng, South Africa  
@@ -21,7 +22,7 @@ I'm a motivated and detail-oriented student currently pursuing my studies at Bel
 
 ---
 
-<img src="https://github.com/Tshiamo912/TshiamoMaise/blob/main/README.md#L24C0"/>
+
 
 ### 📊 GitHub Profile Stats
 
