@@ -1,4 +1,6 @@
-<!-- Violet Wavy Banner with Twinkling Stars -->
+
+
+
 <p align="center" style="font-size: 48px; font-weight: 700; color: #8A2BE2; margin: 20px 0; font-family: monospace, monospace;">
   { 👨‍💻 Hi There -- I'm Tshiamo 💻 } ✨<span style="animation: blink 1s step-start 0s infinite;">_</span>
 </p>
@@ -8,11 +10,6 @@
   50% { opacity: 0; }
 }
 </style>
-
-<!-- Upgraded Violet Wavy Banner with Coding Effects -->
-<p align="center" style="margin: 40px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,6A0DAD&height=200&section=header&text=👨‍💻%20Hi%20There%20--%20I'm%20Tshiamo%20%F0%9F%92%BB&fontSize=45&fontAlignY=50&animation=twinkling&fontColor=ffffff&fontWeight=700" />
-</p>
 
 <!-- Typing GIF Animation -->
 <p align="center">
