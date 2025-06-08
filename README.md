@@ -25,17 +25,17 @@ I'm a motivated and detail-oriented student currently pursuing my studies at Bel
 ### 📊 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tshiamo912&show_icons=true&theme=radical&custom_title=ilytheoo's%20GitHub%20Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tshiamo912&show_icons=true&theme=radical&custom_title=Tshiamo912's%20GitHub%20Stats" alt="GitHub Stats" />
 </p>
 
 ### 📌 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilytheoo&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshiamo912&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ilytheoo/count.svg"/>
+  <img src="https://profile-counter.glitch.me/Tshiamo912/count.svg"/>
 </p>
 ---
 
