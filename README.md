@@ -5,7 +5,7 @@
 
 <!-- Typing GIF Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tshiamo912/Tshiamo912/main/ngoding-mulu.gif" width="400" alt="Typing GIF" />
+  <img src="https://github.com/Tshiamo912/TshiamoMaise/blob/main/ngoding-mulu.gif?raw=true" width="400" alt="Typing GIF" />
 </p>
 
 ---
@@ -76,5 +76,3 @@ If you're passionate about data, tech, or collaborative learning—let’s conne
 ---
 
 *Thanks for visiting! Have a great day 😊*
-
-
