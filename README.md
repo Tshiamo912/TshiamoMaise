@@ -1,7 +1,7 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/👋%20HELLO%20THERE%20—%20I'M%20TSHIAMO-VIOLET?style=for-the-badge&labelColor=8A2BE2&color=8A2BE2&logo=star&logoColor=white" height="60"/>
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive; font-size: 2.5rem;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" style="margin-right: 10px;" />
+  Hello There — I'm <span style="color: violet;">Tshiamo</span>
 </h1>
-
 
 
 🎓 **Student at Belgium Campus (2024–2026)**  
