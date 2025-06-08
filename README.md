@@ -24,7 +24,7 @@ I'm a motivated and detail-oriented student currently pursuing my studies at Bel
 
 ### 📊 GitHub Profile Stats
 
-<p align="center">
+<p   <img src="https://github-readme-stats.vercel.app/api?align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tshiamo912&show_icons=true&theme=radical&custom_title=Tshiamo912's%20GitHub%20Stats" alt="GitHub Stats" />
 </p>
 
