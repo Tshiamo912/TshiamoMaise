@@ -1,6 +1,7 @@
 <!-- Violet Wavy Banner with Twinkling Stars -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header&text=Hi%20There%20--%20I'm%20Tshiamo&fontSize=35&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+  <img src="https://img.shields.io/badge/Tshiamo-%F0%9F%94%A5-8A2BE2?style=for-the-badge&logo=shields.io&logoColor=white" alt="Extraordinary Shields Badge" />
 </p>
 
 <!-- Typing GIF Animation -->
