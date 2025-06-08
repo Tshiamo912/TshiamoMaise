@@ -14,14 +14,11 @@
 📧 [Email Me](mailto:tshiamomaise053@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/tshiamo-maise-517260332)
 
----
-
 ## 💡 About Me
 
 Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply interested in **software engineering**, **technology**, and **problem-solving**. I enjoy building useful applications and continuously learning through projects and collaboration.
 
 ---
-
 
 ## 🧠 Skills & Interests
 
