@@ -1,4 +1,9 @@
-![Hello There](https://img.shields.io/badge/👋%20Hello%20There%20%7C%20I'm%20Tshiamo-lavender?style=for-the-badge&labelColor=lavender&color=lavender)
+<h1 align="center">
+  <img src="https://img.shields.io/badge/-👋%20Hello%20There%20--%20I'm%20Tshiamo-E6E6FA?style=for-the-badge&labelColor=E6E6FA&color=E6E6FA&logo=github&logoColor=black" />
+  <br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</h1>
+
 
 🎓 **Student at Belgium Campus (2024–2026)**  
 📍 Pretoria, Gauteng, South Africa  
