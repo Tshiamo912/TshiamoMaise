@@ -66,13 +66,13 @@ Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply intereste
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tshiamo912&show_icons=true&theme=radical&custom_title=Tshiamo912's%20GitHub%20Stats" alt="Tshiamo912's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tshiamo912&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff79c6&icon_color=50fa7b&text_color=c9d1d9&hide_title=false" alt="Tshiamo912's GitHub Stats" />
 </p>
 
----
+
 
 
 ## 🧰 Most Used Languages
