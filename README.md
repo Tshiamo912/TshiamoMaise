@@ -12,11 +12,11 @@
 🎓 **Student at Belgium Campus (2024–2026)**  
 📍 *Pretoria, Gauteng, South Africa*  
 📧 [Email Me](mailto:tshiamomaise053@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tshiamo-maise-517260332)
+🔗 [LinkedIn](https://www.linkedin.com/in/tshiamo-maise)
 
 ## 💡 About Me
 
-Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply interested in **software engineering**, **technology**, and **problem-solving**. I enjoy building useful applications and continuously learning through projects and collaboration.
+Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply interested in **data analytics**, **technology**, and **problem-solving**. I enjoy uncovering insights from data and continuously learning through projects and collaboration.
 
 ---
 
@@ -40,18 +40,18 @@ Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply intereste
 - 🔄 **Version Control (Git & GitHub)**
 - 🛠️ **Frontend Web Development (HTML, CSS, JavaScript)**
 - 🧠 **Database Design & SQL (MySQL)**
-- ⚙️ **Software Development Life Cycle (SDLC)**
+- ⚙️ **Data Analytics Lifecycle (Collection → Cleaning → Insight)**
 - 🔍 **Debugging & Code Review**
 - 🖥️ **Visual Studio & VS Code**
 - 🐞 **Basic Testing & Error Handling**
 
 ### 💡 Interests
 
-- 🤖 **Building Real-World Software Solutions**
-- 🔐 **Learning Software Architecture & Design Patterns**
-- 📊 **Exploring Data Analytics & Visualization**
+- 📊 **Turning Raw Data Into Real-World Insights**
+- 🔐 **Learning Data Architecture & Analytics Design Patterns**
+- 📈 **Exploring Data Analytics & Visualization**
 - ☁️ **Cloud Technologies & Deployment**
-- 📱 **Mobile & Web App Development**
+- 🖥️ **IT Systems & Infrastructure**
 - 🤝 **Collaborative Team Projects**
 - 🧩 **Problem Solving & Critical Thinking**
 - 🧪 **Experimenting with New Technologies**
@@ -59,46 +59,26 @@ Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply intereste
 
 ## 🌱 What I'm Currently Learning
 
-- 🧠 **Software Engineering Principles**
+- 📊 **Data Analytics Principles**
 - 🌐 **Git & GitHub Workflows**
 - 🛠️ **Agile Development & Project Management**
 - 📂 **Version Control & Team Collaboration**
 
 ---
 
-## 🌟 My GitHub Stats
+## 🔥 Currently Building
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tshiamo912&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff79c6&icon_color=50fa7b&text_color=c9d1d9&hide_title=false" alt="Tshiamo912 GitHub Stats" />
-</p>
-
-
-
-
-## 🧰 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshiamo912&layout=compact&theme=radical" alt="Tshiamo912 Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=header&text=Building%20a%20Fly-by-Wire%20Arduino%20flight%20control%20system&fontSize=22&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
-
-
 
 ## ✝️ Featured Quote
 
 <div align="center" style="transform: scale(1.3); margin: 30px 0;">
   <img src="https://img.shields.io/badge/Philippians%204%3A13-%22I%20can%20do%20all%20things%20through%20Christ%20who%20strengthens%20me.%22-purple?style=for-the-badge&logo=trustpilot&logoColor=white" />
 </div>
-
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Tshiamo912/count.svg" />
-</p>
 
 ---
 
@@ -108,10 +88,10 @@ Hi there! I'm Tshiamo Maise — a curious and ambitious student deeply intereste
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YUc6bTfM--/c_limit,f_auto,fl_progressive,q_80,w_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6w9dmqqhvlg7r93jlnup.gif" width="600" alt="Cool GitHub GIF" />
 </p>
 
-If you’re passionate about **software**, **technology**, or **learning together**, I’d love to connect and collaborate!
+If you’re passionate about **data**, **technology**, or **learning together**, I’d love to connect and collaborate!
 
 📬 [Email Me](mailto:tshiamomaise053@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tshiamo-maise-517260332)
+🔗 [LinkedIn](https://www.linkedin.com/in/tshiamo-maise)
 
 ---
 
